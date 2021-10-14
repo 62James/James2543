@@ -1,0 +1,97 @@
+.tree-post {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    z-index: 999;
+}
+
+.tree-bg {
+    background-color: rgba(0, 0, 0, 0.817);
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    cursor: zoom-out;
+}
+
+.tree-content {
+    background-color: black;
+    max-width: 1200px;
+    position: relative;
+}
+
+.tree-content img {
+    display: block;
+    max-width: 100%;
+    max-height: calc(100vh - 150px);
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.tree-content h3 {
+    color: rgb(255, 251, 251);
+    text-align: center;
+}
+
+
+.tree-post-bg {
+    background-color: rgba(0, 0, 0, 0.803);
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: auto;
+    overflow: auto;
+}
+
+.tree-post-content {
+    position: relative;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    max-width: fit-content;
+    height: auto;
+    background-color: black;
+    overflow: auto;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 5px;
+}
+
+.tree-post-content img {
+    display: block;
+    max-width: 100%;
+    max-height: calc(100vh - 220px);
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.tree-post-content h4 {
+    color: #fff;
+    text-align: center;
+    letter-spacing: 2px;
+    font-size: 25px;
+}
+
+.tree-post-content p {
+    color: #fff;
+    letter-spacing: 1px;
+    font-size: 18px;
+    text-align: center;
+}
+
+.tree-post-content h1 {
+    color: rgb(238, 194, 0);
+    letter-spacing: 1px;
+    font-size: 18px;
+    text-align: center;
+}

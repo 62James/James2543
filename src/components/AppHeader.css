@@ -1,0 +1,19 @@
+.app-header {
+    border-bottom: 1px solid rgb(106, 106, 106);
+    display: flex;
+    height: 140px;
+    justify-content: center;
+    align-items: center;
+    background-image: url(/src/coverr1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: scroll;
+    
+}
+
+.app-header-logo {
+    display: block;
+    height: 120px;
+    
+}
