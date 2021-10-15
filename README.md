@@ -1,4 +1,4 @@
-## how to run
+# how to run
 
 ### Run my project --> docker-compose up or docker-compose up -d
 ### Go to server --> localhost:3000
