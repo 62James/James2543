@@ -73,3 +73,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### Run my project --> docker-compose up or docker-compose up -d
 ### Go to server --> localhost:3000
+### Stop run --> docker-compose down
