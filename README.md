@@ -1,3 +1,10 @@
+## how to run
+
+### Run my project --> docker-compose up or docker-compose up -d
+### Go to server --> localhost:3000
+### Stop run project --> docker-compose down
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -69,8 +76,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-## how to run
-
-### Run my project --> docker-compose up or docker-compose up -d
-### Go to server --> localhost:3000
-### Stop run --> docker-compose down
